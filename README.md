@@ -3,7 +3,7 @@
 Arcade estilo Space Invaders hecho con Pygame, compilado a WebAssembly
 para poder jugarlo en el navegador sin instalar nada.
 
-**▶ Jugar: https://fofiuxx.github.io/invasion-espacial/**
+**▶ Jugar: https://rcquiros04.github.io/invasion-espacial/**
 
 `← →` mover · `ESPACIO` disparar · `R` reiniciar
 
